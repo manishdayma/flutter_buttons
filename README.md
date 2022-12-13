@@ -12,7 +12,7 @@ A Flutter package to create diffrent type of buttons.
 You must add the library as a dependency to your project.
 ```yaml
 dependencies:
- flutter_buttons: ^0.0.1
+  buttons_flutter: ^0.0.1
 ```
 
 You should then run `flutter pub get`
@@ -20,7 +20,7 @@ You should then run `flutter pub get`
 Now in your Dart code, you can use:
 
 ```dart
-import 'package:flutter_buttons/flutter_buttons.dart';
+import 'package:buttons_flutter/buttons_flutter.dart';
 ```
 
 ## Usage Example

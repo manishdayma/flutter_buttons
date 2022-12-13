@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  flutter_buttons:
+  buttons_flutter:
     path: ../
 
 dev_dependencies:

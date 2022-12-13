@@ -1,4 +1,4 @@
-import 'package:flutter_buttons/flutter_buttons.dart';
+import 'package:buttons_flutter/buttons_flutter.dart';
 import 'package:flutter/material.dart';
 
 void main() {
