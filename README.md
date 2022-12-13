@@ -44,7 +44,7 @@ It very simple to use.
           )
 ```
 
- <img src="screenshots/Screenshot_buttons.png">
+![Standard Button](https://raw.githubusercontent.com/manishdayma/flutter_buttons/main/screenshots/Screenshot_buttons.png)
 
 ### Border Button
 
@@ -63,7 +63,7 @@ It very simple to use.
           ),
 ```
 
- <img src="screenshots/Screenshot_borderbutton.png">
+ ![Border Button](https://raw.githubusercontent.com/manishdayma/flutter_buttons/main/screenshots/Screenshot_borderbutton.png)
 
 ### Slider Button
 
@@ -94,7 +94,8 @@ It very simple to use.
             )
 ```
 
-<img src="screenshots/Screenshot_sliderbutton.png">
+
+ ![Slider Button](https://raw.githubusercontent.com/manishdayma/flutter_buttons/main/screenshots/Screenshot_sliderbutton.png)
 
 ### Rounded Icon Button
 
@@ -118,7 +119,7 @@ It very simple to use.
 ```
 
 
-<img src="screenshots/Screenshot_roundedIconButton.png">
+ ![Rounded Icon Button](https://raw.githubusercontent.com/manishdayma/flutter_buttons/main/screenshots/Screenshot_roundedIconButton.png)
 
 ### Rect Icon Button
 
@@ -140,7 +141,8 @@ It very simple to use.
               ),
 ```
 
-<img src="screenshots/Screenshot_rectIconButton.png">
+
+ ![Rect Icon Button](https://raw.githubusercontent.com/manishdayma/flutter_buttons/main/screenshots/Screenshot_rectIconButton.png)
 
 
 ### Support
