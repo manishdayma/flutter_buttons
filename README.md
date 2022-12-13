@@ -44,6 +44,8 @@ It very simple to use.
           )
 ```
 
+ <img src="screenshots/Screenshot_buttons.png">
+
 ### Border Button
 
 ```dart
@@ -60,6 +62,8 @@ It very simple to use.
             child: const Text("I am Border Button"),
           ),
 ```
+
+ <img src="screenshots/Screenshot_borderbutton.png">
 
 ### Slider Button
 
@@ -90,6 +94,8 @@ It very simple to use.
             )
 ```
 
+<img src="screenshots/Screenshot_sliderbutton.png">
+
 ### Rounded Icon Button
 
 ```dart
@@ -111,6 +117,9 @@ It very simple to use.
               ),
 ```
 
+
+<img src="screenshots/Screenshot_roundedIconButton.png">
+
 ### Rect Icon Button
 
 ```dart
@@ -130,6 +139,8 @@ It very simple to use.
                 },
               ),
 ```
+
+<img src="screenshots/Screenshot_rectIconButton.png">
 
 
 ### Support
