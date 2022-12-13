@@ -1,7 +1,7 @@
 name: flutter_buttons
 description: A Flutter Package For Creating Buttons
 version: 0.0.1
-homepage:
+homepage: https://github.com/manishdayma
 
 environment:
   sdk: '>=2.18.5 <3.0.0'
