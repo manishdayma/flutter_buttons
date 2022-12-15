@@ -12,16 +12,21 @@ class Button extends StatelessWidget {
 
   const Button({
     super.key,
+
     /// The Background color for button is not specified
     /// then theme's primary color will be used.
     this.bgColor,
     required this.child,
+
     /// Border radius for the button.
     this.borderRadius,
+
     /// padding for the child of the button.
     this.padding,
+
     /// margin of the button.
     this.margin,
+
     /// function that will be triggered on button press.
     this.onPressed,
   });
@@ -34,8 +39,8 @@ class Button extends StatelessWidget {
         type: MaterialType.transparency,
         child: Ink(
           decoration: BoxDecoration(
-              color: bgColor ?? Theme.of(context).primaryColor,
-              borderRadius: BorderRadius.circular(borderRadius ?? 5),
+            color: bgColor ?? Theme.of(context).primaryColor,
+            borderRadius: BorderRadius.circular(borderRadius ?? 5),
           ),
           child: InkWell(
             onTap: onPressed,

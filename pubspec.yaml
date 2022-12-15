@@ -1,7 +1,9 @@
 name: buttons_flutter
-description: A Flutter Package For Creating Buttons
-version: 0.0.2
+description: A Flutter Package For Creating Different Types Of Buttons.It is easy to use and customise.
 homepage: https://github.com/manishdayma
+repository: https://github.com/manishdayma/flutter_buttons
+issue_tracker: https://github.com/manishdayma/flutter_buttons/issues
+version: 0.0.2+1
 
 environment:
   sdk: '>=2.18.5 <3.0.0'

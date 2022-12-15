@@ -4,7 +4,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-A Flutter package to create diffrent type of buttons.
+A Flutter package to create different type of buttons.
 
 
 ## Getting Started
@@ -12,7 +12,7 @@ A Flutter package to create diffrent type of buttons.
 You must add the library as a dependency to your project.
 ```yaml
 dependencies:
-  buttons_flutter: ^0.0.1
+  buttons_flutter: ^0.0.2+1
 ```
 
 You should then run `flutter pub get`

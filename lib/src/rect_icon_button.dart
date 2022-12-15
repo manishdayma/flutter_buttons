@@ -37,5 +37,3 @@ class RectIconButton extends StatelessWidget {
     );
   }
 }
-
-
