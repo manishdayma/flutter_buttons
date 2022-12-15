@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.2+1
 
-* TODO: Describe initial release.
+added repo and issue url 
